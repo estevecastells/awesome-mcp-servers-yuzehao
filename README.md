@@ -442,6 +442,7 @@ Papers, datasets, and domain data.
 - Probe.dev — https://mcp.probe.dev
 - OpenNutrition — https://github.com/deadletterq/mcp-opennutrition
 - Congress (legislative data) — https://github.com/amurshak/congressMCP
+- Invokely MCP Connector: A local stdio adapter for querying official statistics through Invokely's hosted MCP service. The hosted backend is not included in this repository. https://github.com/estevecastells/invokely-mcp-connector
 
 ---
 
